@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mcp:home|Door43 (mcp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mcp|d43-mcp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mcp/archive/master.zip|d43-mcp.zip]]
+
+**Recent Changes**
+{{changes>ns = mcp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mcp|Ethnologue data]]
+
